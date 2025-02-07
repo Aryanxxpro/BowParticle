@@ -79,67 +79,67 @@ class Main extends PluginBase implements Listener {
 			switch($data)
 			{
 				case 0:
-                    $player->sendMessage($prefix . "§aFlame bow particle enabled!");
+                    $player->sendMessage($prefix . "§aFlame particle has selected for your bow shot!");
 					$config->set("particle", "flame");
 					$config->save();
 				break;
 				case 1:
-                    $player->sendMessage($prefix . "§aWater bow particle enabled!");
+                    $player->sendMessage($prefix . "§aWater particle has selected for your bow shot!");
 					$config->set("particle", "water");
                     $config->save();			
 				break;
 				case 2:
-                    $player->sendMessage($prefix . "§aHeart bow particle enabled!");
+                    $player->sendMessage($prefix . "§aHeart particle has selected for your bow shot!");
 					$config->set("particle", "heart");
                     $config->save();
 				break;
                 case 3:
-                    $player->sendMessage($prefix . "§aSmoke bow particle enabled!");
+                    $player->sendMessage($prefix . "§aSmoke particle has selected for your bow shot!");
 					$config->set("particle", "smoke");
                     $config->save();
 				break;
                 case 4:
-                    $player->sendMessage($prefix . "§aPortal bow particle enabled!");
+                    $player->sendMessage($prefix . "§aPortal particle has selected for your bow shot!");
 					$config->set("particle", "portal");
                     $config->save();
 				break;
                 case 5:
-                    $player->sendMessage($prefix . "§aLavaDrip bow particle enabled!");
+                    $player->sendMessage($prefix . "§aLavaDrip particle has selected for your bow shot!");
 					$config->set("particle", "lavadrip");
                     $config->save();
 				break;
                 case 6:
-                    $player->sendMessage($prefix . "§aWaterDrip bow particle enabled!");
+                    $player->sendMessage($prefix . "§aWaterDrip particle has selected for your bow shot!");
 					$config->set("particle", "waterdrip");
                     $config->save();
 				break;
                 case 7:
-                    $player->sendMessage($prefix . "§aRedstone bow particle enabled!");
+                    $player->sendMessage($prefix . "§aRedstone particle has selected for your bow shot!");
 					$config->set("particle", "redstone");
                     $config->save();
 				break;
                 case 8:
-                    $player->sendMessage($prefix . "§aSnowballPoof bow particle enabled!");
+                    $player->sendMessage($prefix . "§aSnowballPoof particle has selected for your bow shot!");
 					$config->set("particle", "snowballpoof");
                     $config->save();
 				break;
                 case 9:
-                    $player->sendMessage($prefix . "§aAngryVillager bow particle enabled!");
+                    $player->sendMessage($prefix . "§aAngryVillager particle has selected for your bow shot!");
 					$config->set("particle", "angryvillager");
                     $config->save();
 				break;
                 case 10:
-                    $player->sendMessage($prefix . "§aHappyVillager bow particle enabled!");
+                    $player->sendMessage($prefix . "§aHappyVillager particle has selected for your bow shot!");
 					$config->set("particle", "happyvillager");
                     $config->save();
 				break;
                 case 11:
-                    $player->sendMessage($prefix . "§aEnchantmentTable bow particle enabled!");
+                    $player->sendMessage($prefix . "§aEnchantmentTable particle has selected for your bow shot!");
 					$config->set("particle", "enchantmenttable");
                     $config->save();
 				break;
                 case 12:
-                    $player->sendMessage($prefix . "§cBow particle disabled!");
+                    $player->sendMessage($prefix . "§cYour bow particle disabled!");
 					$config->set("particle", "false");
                     $config->save();
 				break;
