@@ -7,7 +7,7 @@ description: This is a plugin that shows beautifull particles when shooting arro
 
 commands:
   bowparticle:
-   description: Select a particle for your bow shoots!
+   description: Select a particle for your bow shots!
    permission: bowparticle.command
 
 permissions:
