@@ -1,0 +1,15 @@
+name: BowParticle
+version: 1.0.0
+api: 5.0.0
+main: Aryanxxpro\BowParticle\Main
+author: Aryanxxpro
+description: This is a plugin that shows different particles when player shoot an arrow with a bow!
+
+commands:
+  bowparticle:
+   description: Select a particle for your bow shoots!
+   permission: bowparticle.command
+
+permissions:
+  bowparticle.command:
+    default: op
