@@ -28,6 +28,10 @@ use jojoe77777\FormAPI\SimpleForm;
 
 class Main extends PluginBase implements Listener {
 
+    public $config;
+    public $prefix;
+    public $ticks;
+
     public function onEnable(): void {
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
         $this->config = $this->getConfig();
