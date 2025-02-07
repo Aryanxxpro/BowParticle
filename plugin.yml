@@ -3,7 +3,7 @@ version: 1.0.0
 api: 5.0.0
 main: Aryanxxpro\BowParticle\Main
 author: Aryanxxpro
-description: This is a plugin that shows different particles when player shoot an arrow with a bow!
+description: This is a plugin that shows beautifull particles when shooting arrows!
 
 commands:
   bowparticle:
