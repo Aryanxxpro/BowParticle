@@ -1,0 +1,5 @@
+#Just a prefix
+prefix: "§l§8[§aB§2P§8]§r "
+
+#Delay between each particle (recommended ticks: 2)
+ticks: 2
