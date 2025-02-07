@@ -30,3 +30,8 @@
 Command | Description | Permission
 --- | --- | ---
 `/bowparticle` | Select a particle for your bow shots! | bowparticle.command
+
+# ScreenShot
+<p>This is a screenshot of plugin:</p>
+
+![BowParticle Screenshot](screenshot.png)
