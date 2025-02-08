@@ -31,9 +31,9 @@
 # Command
 <p>This is the plugin command details:</p>
 
-Command | Description | Permission
---- | --- | ---
-`/bowparticle` | Select a particle for your bow shots! | bowparticle.command
+Command | Description | Permission | Default
+--- | --- | --- | ---
+`/bowparticle` | Select a particle for your bow shots! | bowparticle.command | op
 
 # ScreenShot
 <p>This is a screenshot of plugin:</p>
