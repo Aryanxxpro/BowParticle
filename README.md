@@ -1,5 +1,9 @@
 # BowParticle
+![BowParticle Icon](icon.png)
+
+<div align="center">
 <p>A plugin for pocketmine 5 that shows particles when shooting arrows!</p>
+</div>
 
 # Features
 <p>These are some of the most important plugin teatures:</p>
