@@ -3,7 +3,7 @@ version: 1.0.0
 api: 5.0.0
 main: Aryanxxpro\BowParticle\Main
 author: Aryanxxpro
-description: This is a plugin that shows beautifull particles when shooting arrows!
+description: This is a plugin that shows beautiful particles when shooting arrows!
 
 commands:
   bowparticle:
