@@ -2,7 +2,10 @@
 ![BowParticle Icon](icon.png)
 
 <div align="center">
-<p>A plugin for pocketmine 5 that shows particles when shooting arrows!</p>
+  <a href="https://poggit.pmmp.io/p/BowParticle"><img src="https://poggit.pmmp.io/shield.state/BowParticle"></a>
+  <a href="https://poggit.pmmp.io/p/BowParticle"><img src="https://poggit.pmmp.io/shield.api/BowParticle"></a>
+  <a href="https://poggit.pmmp.io/p/BowParticle"><img src="https://poggit.pmmp.io/shield.dl.total/BowParticle"></a>
+  <p>A plugin for pocketmine 5 that shows particles when shooting arrows!</p>
 </div>
 
 # Features
