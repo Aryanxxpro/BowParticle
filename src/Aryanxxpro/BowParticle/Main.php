@@ -146,7 +146,7 @@ class Main extends PluginBase implements Listener {
 			}
 		});
 		$form->setTitle("Bow Particle");
-		$form->setContent("Select a particle for your bow shoots using the buttons below:");
+		$form->setContent("Select a particle for your bow shots using the buttons below:");
 		$form->addButton("Flame",0, "textures/ui/realms_green_check");
 		$form->addButton("Water",0, "textures/ui/realms_green_check");
 		$form->addButton("Heart", 0, "textures/ui/realms_green_check");
